@@ -1,75 +1,58 @@
 # My Communication Style
-# Ashwin Naidu | Lead Data Scientist | Deutsche Bank, Dublin
+# The AI reads this when drafting replies — be specific about what sounds like you
 
 ---
 
 ## Voice & Tone
-- **Friendly and professional** — warm but never casual to the point of being unclear
-- Direct — get to the point quickly, don't bury the ask
-- Confident — no hedging on recommendations; state positions clearly
-- Human — not corporate-speak, not robotic
+- [e.g. "Friendly and professional — warm but never vague"]
+- [e.g. "Direct — lead with the most important thing, not background context"]
+- [e.g. "Confident — state my position clearly, no unnecessary hedging"]
 
 ---
 
 ## Email Format Rules
-- **Keep it short** — under 150 words unless complexity genuinely requires more
-- Lead with the most important thing, not context-setting
-- Use bullet points only when listing 3+ items — not for single points
-- One clear ask per email — if there are multiple asks, number them explicitly
-- No walls of text — use whitespace; short paragraphs of 2–3 lines maximum
+- Length: [e.g. "Under 150 words unless complexity genuinely requires more"]
+- Structure: [e.g. "One clear ask per email — multiple asks get numbered"]
+- Lists: [e.g. "Bullets only for 3+ items — never for a single point"]
+- Paragraphs: [e.g. "Short — 2 to 3 lines max, use whitespace generously"]
 
 ---
 
-## Banned Phrases (never use these)
-- "I hope this email finds you well" — do not open with this ever
-- "As per my last email" — passive aggressive, never use
-- "Please don't hesitate to reach out" — filler, cut it
-- "Circling back" — use "Following up" only if necessary
-- "Going forward" — say what you actually mean instead
-- "Synergy" / "leverage" / "bandwidth" — corporate filler
-- "Just wanted to check in" — either you need something or you don't
-- "To be honest" — implies previous dishonesty
-- Excessive exclamation marks — one per email at most
+## Banned Phrases (never write these)
+- "I hope this email finds you well"
+- "As per my last email"
+- "Please don't hesitate to reach out"
+- "Circling back" / "Just following up"
+- "Going forward"
+- [Add your own pet hates]
 
 ---
 
-## Opening Lines (use these instead)
-- Get straight into the subject: "Quick update on [X]..." or "Wanted to flag [X]..."
-- If acknowledging something: "Thanks for [specific thing] — here's where I land on it:"
-- If following up: "Following up on [X] — still need [specific thing] by [date]."
+## How to Open Emails
+<!-- What do good opening lines look like for you? -->
+- Getting straight to it: "Quick update on [X]..." or "Wanted to flag [X]..."
+- Acknowledging first: "Thanks for [specific thing] — here's where I land:"
+- Following up: "Following up on [X] — still need [thing] by [date]."
 
 ---
 
 ## Sign-offs
-- For most emails: **"Best, Ashwin"**
-- For quick replies: **"Thanks, Ashwin"**
-- For important/formal: **"Best regards, Ashwin"**
-- Never: "Kind regards" when "Best" will do. Never "Cheers" in professional context.
+- Default: [e.g. "Best, [Your name]"]
+- Quick reply: [e.g. "Thanks, [Your name]"]
+- Formal: [e.g. "Best regards, [Your name]"]
 
 ---
 
-## Reply Philosophy
-- Don't send an email that requires another email — resolve the loop in one reply
-- If something needs a call, say so rather than writing a long email
-- If declining something, be brief and don't over-explain
-- Acknowledge before disagreeing — never dismissive
+## Rules by Context
 
----
+### To senior stakeholders / leadership
+- [e.g. "More formal — lead with the bottom line, then supporting detail"]
 
-## Context-Specific Rules
+### To my team
+- [e.g. "Direct and friendly — assume they know the context"]
 
-### To Regulators / Compliance
-- More formal tone — use "Best regards"
-- Be precise and unambiguous — no casual language
-- State facts clearly; avoid opinion where possible
-- Always confirm receipt of any regulatory communication
+### To external partners / clients
+- [e.g. "Professional but personable — reference something specific to them"]
 
-### To My Team
-- Friendly and direct — they know the work
-- Can be informal on Slack; email should still be clear
-- When giving feedback: specific, actionable, not vague
-
-### To GenAI / Research Contacts
-- Peer-to-peer tone — they're builders too
-- Can reference technical specifics directly
-- Be genuinely curious — ask good questions
+### To decline something
+- [e.g. "Brief, clear, no over-explanation — leave the door open if appropriate"]

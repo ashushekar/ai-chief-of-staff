@@ -1,65 +1,56 @@
 # My Team & Stakeholders
-# Ashwin Naidu | Lead Data Scientist | Deutsche Bank, Dublin
+# Who matters, how urgently, and what they own
 
 ---
 
 ## My Manager
-- **[Manager name — add when ready]** | [Title] | Deutsche Bank
-- SLA: Respond within same business day
-- Priority: Any message from my manager is minimum P1
+- Name: [Manager name]
+- Title: [Their role]
+- SLA: Same business day
+- Notes: [Anything useful — communication style, what they care about]
 
 ---
 
-## My Team (Direct / Close Collaborators)
-- **[Add your team members here]** — e.g. "Priya | ML Engineer | owns pipeline infra"
-- **[Add colleague names]** — e.g. "James | Data Analyst | UAT testing"
-
-> Tip: For each person add: name | role | what they own | typical urgency
+## My Direct Team
+<!-- Add one row per person -->
+- [Name] | [Role] | [What they own] | Urgency: [High/Medium/Low]
+- [Name] | [Role] | [What they own] | Urgency: [High/Medium/Low]
 
 ---
 
 ## Key Internal Stakeholders
-
-### Compliance & Regulatory
-- **Compliance team / Regulators** — any message touching KYC, SoW, or audit → P0 immediately
-- SLA: Same-day response, no exceptions
-- Context: The KYC AI pipeline output is regulator-facing; errors have legal consequences
-
-### Technology / Engineering
-- **Internal tech partners** — questions about pipeline infra, data access, or deployment → P1
-- SLA: Respond within 24 hours
+<!-- People whose emails need attention even if the subject seems boring -->
+- [Name] | [Department] | [Why they matter] | SLA: [timeframe]
 
 ---
 
-## Key External Stakeholders
-- **[Client / partner names — add when ready]**
-- Any external party referencing KYC, compliance, or production data → treat as P0
+## Key External Contacts
+<!-- Clients, partners, collaborators -->
+- [Name / Organisation] | [Context] | SLA: [timeframe]
 
 ---
 
-## GenAI Network (Research / Ecosystem)
-- Researchers, builders, VCs, or collaborators reaching out about GenAI projects → P1
-- Invitations to speak, write, advise, or co-build in GenAI → evaluate same day
-- Cold GenAI outreach with no clear ask → P2 or archive
+## People to Never Miss
+<!-- Even if the subject line looks low-priority, always surface emails from: -->
+- [Name or role 1]
+- [Name or role 2]
 
 ---
 
-## Communication SLAs by Sender Type
+## Priority by Sender Type
 
 | Sender type | Default priority | Response SLA |
 |---|---|---|
 | My manager | P1 minimum | Same day |
-| Compliance / regulators | P0 | Same day, urgent |
-| Direct team members | P1 | Within 24 hours |
-| Internal stakeholders | P1–P2 | Within 48 hours |
-| GenAI collaborators | P1 | Same day |
-| Recruiters / vendors | Archive | None |
+| Direct reports / teammates | P1 | Within 24 hours |
+| Key external contacts | P1 | Same day |
+| Internal colleagues | P1–P2 | Within 48 hours |
+| Recruiters / cold outreach | Archive | None |
 | Newsletters / digests | Archive | None |
 
 ---
 
-## Who to Never Miss
-Even if the subject looks boring, escalate to P0 if from:
-- Any regulator, auditor, or compliance officer
-- My manager
-- [Add other critical names here]
+## Context for Triage
+<!-- Anything else the AI should know about who to prioritise -->
+- [e.g. "Any email from the legal team is automatically P0"]
+- [e.g. "My skip-level only emails when something is urgent — always P0"]

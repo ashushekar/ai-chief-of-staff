@@ -1,49 +1,45 @@
-# My Priorities — Q2 2026
-# Ashwin Naidu | Lead Data Scientist | Deutsche Bank, Dublin
+# My Priorities
+# Update this file each quarter — it's what the AI uses to decide what matters
 
 ---
 
 ## Role
-Lead Data Scientist and Team Lead at Deutsche Bank, Dublin.
-IC who also leads a small team. Operating across GenAI build, research, consulting, and investment evaluation.
+<!-- Example: Lead Data Scientist | Team Lead | [Your Company] -->
+Role: [Your title and organisation]
 
 ---
 
-## Q2 2026 — What Success Looks Like (by end of June)
+## This Quarter's Goals
 
-### P1 — GenAI Pipeline to Production
-- Deliver the **PB KYC AI pipeline** to regulator-grade quality
-- UAT Round 3 must pass; any outstanding issues are blockers
-- Output must be defensible to compliance and regulators — precision over features
-- Key deliverables: SoW Memo accuracy, eKYC schema integrity, business income benchmarking
+### Goal 1 — [Your primary focus area]
+- What does success look like?
+- What are the key milestones?
+- Who depends on this?
 
-### P2 — GenAI Thought Leadership & Influence
-- Be visibly active in the GenAI space: writing, speaking, advising, experimenting
-- Build and ship personal AI tools (e.g. this Chief of Staff system)
-- Stay ahead of the model capability curve — know what's possible before others ask
+### Goal 2 — [Your secondary focus]
+- What does success look like?
+- Any hard deadlines?
 
-### P3 — RAG Evaluation Framework
-- Deliver the `evals_prod` RAG evaluation pipeline to Marcelo and the team
-- Must cover faithfulness, relevancy, and groundedness metrics
-- Langfuse integration fully operational for production trace analysis
+### Goal 3 — [Your stretch goal or side project]
+- What does success look like?
 
 ---
 
 ## Hard Deadlines
-- **3-month horizon**: GenAI pipeline milestone due — treat anything blocking this as P0
-- **Regulatory readiness**: No slippage on compliance-related deliverables
+- [Date] — [Deliverable or milestone]
+- [Date] — [Deliverable or milestone]
 
 ---
 
 ## What I Am NOT Doing This Quarter
-- Not taking on new projects that don't connect to GenAI or KYC pipeline
-- Not attending meetings that have no clear decision or output
-- Not writing verbose reports — favour working prototypes and demos over decks
+- Not taking on projects unrelated to my core goals
+- Not attending meetings with no clear decision or output
+- Not writing lengthy reports when a demo will do
+- [Add your own "not doing" list — this is the most important section]
 
 ---
 
-## How to Triage Using This
-- Any email about the KYC pipeline, UAT results, or regulators → P0 by default
-- Any GenAI collaboration, speaking invite, or research opportunity → P1, evaluate same day
-- Anything that delays the 3-month milestone → escalate immediately
-- Newsletters, generic networking, non-urgent admin → archive
+## How to Use This for Triage
+- Any email that blocks my primary goal → P0
+- Any collaboration or opportunity related to my goals → P1, same-day
+- Networking, newsletters, non-urgent admin → archive
