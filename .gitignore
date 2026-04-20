@@ -1,0 +1,27 @@
+# ─── Secrets — NEVER commit these ───────────────────────────────────────────
+.env
+credentials/gmail_token.json
+credentials/gcal_token.json
+credentials/client_secret.json
+
+# ─── Triage logs — personal data, kept local ─────────────────────────────────
+logs/
+
+# ─── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ─── OS ──────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDE ─────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
